@@ -1,0 +1,216 @@
+body {
+	background-color: #F1F1F1;
+}
+
+.container {
+	width: 1200px;
+	margin: 0 auto;
+}
+
+.fixed {
+	position: fixed;
+	top: 0;
+	z-index: 1000;
+}
+
+nav,li {
+	display: inline-block;
+}
+
+.mydiv {
+	vertical-align: middle;
+	display: inline-block;
+
+}
+
+.circle {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+li{
+	color: #000;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-right: 35px;
+	font-family: 'Roboto', sans-serif;
+}
+
+.tranding {
+	color: #000;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin: 76px 0px 27px 0px;
+	font-family: 'Roboto', sans-serif;
+
+}
+
+.card1 {
+	height: 357px;
+	width: 362px;
+	border-radius: 5px;
+	display: inline-block;
+	z-index: 999;
+}
+
+.mshobeli {
+	width: 362px;
+	height: 186px;
+	position: relative;
+}
+
+.shvili {
+	position: absolute;
+	top: 32px;
+	left: 41px;
+	color: #FFF;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	font-family: 'Roboto', sans-serif;
+}
+
+.white {
+	background-color: #FFF;
+	width: 362px;
+	height: 171px;
+	padding: 68px 0px 41px 37px;
+	border-radius: 0px 0px 5px 5px;
+}
+
+h3 {
+	color: #8A8787;
+	font-family: 'Roboto', sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	height: 36px;
+	width: 214px;
+}
+  
+img {
+	vertical-align: middle;
+}
+
+.my2m {
+	display: inline-block;
+	vertical-align: middle;
+	color: #8A8787;
+	font-family: 'Roboto', sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+
+.card2 {
+	display: inline-block;
+	margin-left: 40px;
+}
+
+.happening {
+	color: #000;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin: 57px 0px 30px 0px;
+	font-family: 'Roboto', sans-serif;
+}
+
+.line1{
+	margin-right: 45px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.mshobeli1 {
+	position: relative;
+	width: 758px;
+	height: 430px;
+}
+
+.shvili1 {
+	position: absolute;
+	top: 203px;
+	right: 278px;
+	
+}
+
+.myh5 {
+	color: #FFF;
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+
+.photo {
+	margin: 42px 0px 36px 0px;
+}
+
+.photos {
+	display: block;
+	margin-bottom: 100px;
+}
+
+.line2 {
+	display: inline-block;
+	vertical-align: top;
+}
+
+.footer {
+	height: 201px;
+	background-color: #243043;
+	padding-top: 59px;
+
+}
+
+.div,.div2,.div1,.div3{
+	display: inline-block;
+}
+
+.div1 {
+	margin-left: 75px;
+}
+
+.div2 {
+	margin-left: 100px;
+}
+
+.div3 {
+	margin-left: 112px;
+	vertical-align: top;
+}
+
+.geolablogo {
+	vertical-align: top;
+	margin-left: 416px;
+
+}
+
+h5 {
+	color: #818687;
+	font-family: 'Roboto', sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-bottom: 14px;
+}
+
+h6 {
+	color: #FFF;
+	font-family: 'Roboto', sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
